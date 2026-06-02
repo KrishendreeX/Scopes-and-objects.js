@@ -30,7 +30,7 @@ const student2 = new Student("Bob", 22);
 const student3 = new Student("Charlie", 21);
 
 // TODO: Create an object literal with nested properties
-var university = {
+const university = {
     name: "UWC",
     location: "Cape Town",
     students: [student1, student2, student3],
